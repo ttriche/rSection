@@ -1,0 +1,6 @@
+see http://bioinformatics.oxfordjournals.org/content/suppl/2010/08/30/btq406.DC1/Erkkila_DSection_Bioinformatics_Supplement.pdf for details of the original;
+
+see http://research.microsoft.com/en-us/um/people/minka/papers/dirichlet/minka-dirtree.pdf for the treed Dirichlet and Bayesian inference applicable to it; 
+
+finally, see https://github.com/armstrtw/CppBugs for a fast R BUGS replacement.
+
